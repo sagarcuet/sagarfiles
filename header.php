@@ -16,6 +16,6 @@
       		<h1><a href="#"><img src="http://localhost/php/php_school/images/logo.png" alt=""></a></h1>
   		</div>
      
- 
+    <h1>This is Page </h1>
 </header> 
 

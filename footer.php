@@ -1,7 +1,7 @@
   <footer>
 
 		<div class="grid_12">
-              <p style="">Php School © 2014<!-- {%FOOTER_LINK} --></p>
+              <p style="">Php School © 2016</p>
         </div>
        	 
    </footer> 
